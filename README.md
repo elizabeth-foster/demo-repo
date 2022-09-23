@@ -1,3 +1,3 @@
 # demo-repo
 
-any description of the repository
+a description of the repository
